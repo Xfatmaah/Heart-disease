@@ -8,8 +8,8 @@ Machine Learning algorithms used:
 3. Support Vector Machine
 4. Artificial Neural Network with 1 Hidden layer
 
-* Accuracy achieved:96.4% "Random Forest"
-* Dataset used: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+* Accuracy achieved: 96.4% "Random Forest"
+* Dataset used: https: //www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
 
 ## Dataset Information:
 The dataset consists of 319795 rows and 18 columns with label Target. Data contains categorical as well as continuous data.
