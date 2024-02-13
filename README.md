@@ -3,12 +3,13 @@
 The project involved analysis of the heart disease patient dataset with data processing. Then, different models were trained and and predictions are made with different algorithms.
 
 Machine Learning algorithms used:
-1. Random Forest 
-2. Support Vector Machine
-3. Artificial Neural Network with 1 Hidden layer
+1. Random Forest
+2. Decision Tree
+3. Support Vector Machine
+4. Artificial Neural Network with 1 Hidden layer
 
-Accuracy achieved:
-Dataset used: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+* Accuracy achieved:96.4% "Random Forest"
+* Dataset used: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
 
 ## Dataset Information:
 The dataset consists of 319795 rows and 18 columns with label Target. Data contains categorical as well as continuous data.
